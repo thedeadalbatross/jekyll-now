@@ -1,5 +1,5 @@
 ---
-title: Independence Day!
+title: Independence Day
 layout: post
 author: maddox.byrd
 permalink: /independence-day!/
